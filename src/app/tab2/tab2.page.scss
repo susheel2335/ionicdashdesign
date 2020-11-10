@@ -1,0 +1,75 @@
+.head
+{
+    bottom: 0px;
+right: 0px;
+width:100%;
+background: #333333 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.menu-icon{
+  width: 40px;
+height:40px;
+color:white;
+}
+
+.first{
+    margin:auto;
+    display:block;
+width:100%;
+padding:0px;
+margin:0px;
+--background: #1C1B1B 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 30px 30px;
+opacity: 1;
+}
+.search{
+   bottom:30px;
+margin-left: 50px;
+margin:auto;
+display:block;
+color:white;
+height: 35px;
+width: 314px;
+--background: #333333 0% 0% no-repeat padding-box;
+box-shadow: 0px 2px 48px #00000021;
+--border-radius: 12px;
+opacity:1;
+}
+.second{
+   display:block;
+width: 386px;
+margin:auto;
+--background: #1C1B1B 0% 0% no-repeat padding-box;
+box-shadow: 0px 2px 38px #00000014;
+border-radius: 18px;
+bottom:20px;
+}
+.third
+{ 
+    display:block;
+    width: 386px;
+    margin:auto;
+    --background: #1C1B1B 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 38px #00000014;
+    border-radius: 18px;
+    bottom:20px;}
+p{
+    letter-spacing: var(--unnamed-character-spacing-1);
+text-align: left;
+letter-spacing: 1px;
+color: #9F9E9E;
+opacity: 1;
+font-size:12px;
+}
+ion-label{
+    letter-spacing: var(--unnamed-character-spacing-1);
+text-align: left;
+letter-spacing: 1px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+ion-item{
+    color: #FFFFFF;
+    --background: #1C1B1B 0% 0% no-repeat padding-box;
+}
